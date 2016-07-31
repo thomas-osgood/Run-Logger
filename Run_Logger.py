@@ -16,9 +16,6 @@ Purpose:
 
 Customization:
     - Custom Class 'runClass'
-
-Future Addons:
-    - Create Graphing Feature
 """
 
 # GLOBAL Var(s)
